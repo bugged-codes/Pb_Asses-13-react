@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+/13th-react-4.code-workspace
+/13th-react-4.mov
+/Screenshot_20230124_093341.png
+src2/
