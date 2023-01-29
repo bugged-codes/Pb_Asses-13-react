@@ -1,8 +1,8 @@
-# *Second React App!*
+# *Fourth React App!*
 
 </br>
 
-### Simple site created using react to understand and implement `state` and data in react.
+### Simple site created using react to understand and implement routing in react by creating a simple Navbar.
 
 </br>
 

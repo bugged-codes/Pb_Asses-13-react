@@ -1,14 +1,13 @@
 import React from "react";
-import ContactUs from "./pages/ContactUs";
-// import { Route, Routes } from "react-router-dom";
-// import Home from "./pages/Home";
-import Navbar from "./pages/Navbar";
+import MasterRoutes from "./pages/navigate/MasterRoutes";
+import Navbar from "./pages/navigate/Navbar";
+import "./css/App.css";
 
 function App() {
 	return (
 		<div className="App">
 			<Navbar />
-			{/* <ContactUs /> */}
+			<MasterRoutes />
 		</div>
 	);
 }
